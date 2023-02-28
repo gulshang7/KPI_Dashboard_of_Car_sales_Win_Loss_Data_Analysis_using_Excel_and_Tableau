@@ -6,51 +6,90 @@ Car Sales Win and Loss Analysis Using Excel and Tableau
 
 ABOUT PROJECT:
 
-    •	Performed KPI of car sales, which shows win and loss analysis by different Regions, Competitions, Feilds etc.
+    • Performed KPI of car sales, which shows win and loss analysis by different Regions, Competitions, Feilds etc.
 
-    •	Performed Data cleaning in MS Excel for better Data Analysis Process.
+    • Performed Data cleaning in MS Excel for better Data Analysis Process.
 
-    •	Developed a Tableau interactive dashboard to perform analysis, producing quantitative visualizations 
-        in Tableau to draw valuable insights. 
+    • Developed a Tableau interactive dashboard to perform analysis, producing quantitative visualizations 
+      in Tableau to draw valuable insights. 
         
 TECHNOLOGIES USED:
 
-    •	Advance Excel
+    • Advance Excel
 
-    •	Tableau
+    • Tableau
 
-    •	Statistics
+    • Statistics
     
 STEPS OVERVIEW:
 
-1) Data subset collected from online.
-2) Loading Libraries.
-3) Data Cleaning & Finding Missing values.
-4) Data Visualization.
+    1) Data subset collected from online.
+    2) Loading Libraries.
+    3) Data Cleaning & Finding Missing values.
+    4) Data Visualization.
 
 DATA CLEANING:
     
-    •	Open Dataset in Excel and Make a Copy of Dataset for security purpose.
-    •	Remove Duplicates.
-    •	Use Filter on Route to Market and Opportunity result column for spelling mistake, unwanted result, name etc.
-    •	Change the formatting of necessary columns.
-    •	Spell Check.
-    •	Change Case - Lower/Upper/Proper.
-    •	Trim the unwanted spaces.
-    •	Remove null values if its not going to affect the result.
-    •	Find and Replace.
+    • Open Dataset in Excel and Make a Copy of Dataset for security purpose.
+    
+    • Remove Duplicates.
+    
+    • Use Filter on Route to Market and Opportunity result column for spelling mistake, unwanted result, name etc.
+    
+    • Change the formatting of necessary columns.
+    
+    • Spell Check.
+    
+    • Change Case - Lower/Upper/Proper.
+    
+    • Trim the unwanted spaces.
+    
+    • Remove null values if its not going to affect the result.
+    
+    • Find and Replace.
     
 DATA VISUALIZATION:
 
     1st Sheet - Total Opportunities.
-    2st Sheet - Won Opportunities.
-    3st Sheet - Average WonOpportunities.
-    4st Sheet - Loss Opportunities.
-    5st Sheet - Vertical Bar Graph - Route to Market Won.
-    6st Sheet - Vertical Bar Graph - Route to Market Loss.
-    7st-8st Sheet - Top Won and Top Loss Opportunity Number.
-    9st Sheet - Vertical Bar Graph - Win/Loss by Deal Size.
-    10st Sheet - Vertical Bar Graph - Win/Loss by Competition.
-    11st Sheet - Regions
     
+    2nd Sheet - Won Opportunities.
+    
+    3rd Sheet - Average WonOpportunities.
+    
+    4th Sheet - Loss Opportunities.
+    
+    5th Sheet - Vertical Bar Graph - Route to Market Won.
+    
+    6th Sheet - Vertical Bar Graph - Route to Market Loss.
+    
+    7th Sheet - Top Won Opportunity Number.
+    
+    8th Sheet - Top Loss Opportunity Number.
+    
+    9th Sheet - Vertical Bar Graph - Win/Loss by Deal Size.
+    
+    10th Sheet - Vertical Bar Graph - Win/Loss by Competition.
+    
+    11th Sheet - Regions.
+    
+DASHBOARD CONTENT: 
 
+The dashboard shows:
+  
+    1) At top contains Title. Every Dashboard contains has its Filter command active.
+    
+    2) Then contain Regions Category, if you select individual region entire Dashboard data changes
+       according to that Region selected.
+       
+    3) After that Total Opportunities, Won Opportunities, Average Won Opportunities, Loss Opportunities.
+    
+    4) After that Vertical Route to Market Won and Route to Market Loss Bar Graph side by side 
+       seperated by Route to Market Lables.
+       
+    5) Then, Vertical Bar Graph of Win/Loss by Competition and at its right Vertical Bar Graph - Win/Loss by Deal Size.
+    
+    6) At the right corner Top Won Opportunity Number and Top Loss Opportunity Number.
+    
+DASHBOARD:
+
+![image](https://user-images.githubusercontent.com/124501309/221943041-cafdcde6-5a05-4e9c-bba1-295deec97d62.png)
