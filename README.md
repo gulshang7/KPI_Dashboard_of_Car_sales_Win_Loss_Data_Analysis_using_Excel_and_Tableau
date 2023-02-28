@@ -78,13 +78,11 @@ The dashboard shows:
   
     1) At top contains Title. Every Dashboard contains has its Filter command active.
     
-    2) Then contain Regions Category, if you select individual region entire Dashboard data changes
-       according to that Region selected.
+    2) Then contain Regions Category, if you select individual region entire Dashboard data changes according to that Region.
        
     3) After that Total Opportunities, Won Opportunities, Average Won Opportunities, Loss Opportunities.
     
-    4) After that Vertical Route to Market Won and Route to Market Loss Bar Graph side by side 
-       seperated by Route to Market Lables.
+    4) After that Vertical Route to Market Won and Route to Market Loss Bar Graph side by side seperated by Route to Market Lables.
        
     5) Then, Vertical Bar Graph of Win/Loss by Competition and at its right Vertical Bar Graph - Win/Loss by Deal Size.
     
@@ -93,3 +91,13 @@ The dashboard shows:
 DASHBOARD:
 
 ![image](https://user-images.githubusercontent.com/124501309/221943041-cafdcde6-5a05-4e9c-bba1-295deec97d62.png)
+
+NOTE: If you click any Region at Top, all the Data Changes According to that Region, Ex. PACIFIC REGION.
+
+![image](https://user-images.githubusercontent.com/124501309/221945388-528524fb-691e-424d-b785-4520a23cc1cf.png)
+
+NOTE:
+
+I have uploaded all the files, datasets, workbook, icons above. Feel free to use this Project's resourses for your next Project.
+If you like this Project and Dashboard give it a Star or just tell me. It'll make me feel Good :)
+
