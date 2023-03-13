@@ -4,11 +4,11 @@
 
 LinkedIn: https://www.linkedin.com/in/gulshan-gedam-362905209/
 
-Dashboard: https://public.tableau.com/app/profile/gulshan.gedam/viz/FinancialConsumerComplaintsDashboardRWFD_16786353606930/Dashboard?publish=yes
+Dashboard: https://public.tableau.com/app/profile/gulshan.gedam/viz/CarssalesWinLossOppAnalysisDashboard/Dashboard1?publish=yes
 
 ## PROJECT NAME:
 
-Car Sales Win and Loss Analysis Using Excel and Tableau 
+Car Sales Win and Loss Analysis Using Excel and Tableau Dashboard - Full KPI Analysis
 
 ## ABOUT PROJECT:
 
