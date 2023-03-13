@@ -100,7 +100,7 @@ The dashboard shows:
 
 ![Dashboard White](https://user-images.githubusercontent.com/124501309/224763493-48cc63fe-4130-47a2-85b6-a2064fa86be1.png)
 
-### NOTE: If you click any Region at Top, all the Data Changes According to that Region, Ex. PACIFIC REGION.
+### NOTE: If you click any Region at Top, all the Data Changes According to that Region.
 
 https://user-images.githubusercontent.com/124501309/224766661-0fd112df-5473-4280-a168-be6286cf88e1.mp4
 
