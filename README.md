@@ -1,10 +1,16 @@
 # KPI_Dashboard_of_Car_sales_Win_Loss_Data_Analysis_using_Excel_and_Tableau
 
-PROJECT NAME:
+## LINKS:
+
+LinkedIn: https://www.linkedin.com/in/gulshan-gedam-362905209/
+
+Dashboard: https://public.tableau.com/app/profile/gulshan.gedam/viz/FinancialConsumerComplaintsDashboardRWFD_16786353606930/Dashboard?publish=yes
+
+## PROJECT NAME:
 
 Car Sales Win and Loss Analysis Using Excel and Tableau 
 
-ABOUT PROJECT:
+## ABOUT PROJECT:
 
     • Performed KPI of car sales, which shows win and loss analysis by different Regions, Competitions, Feilds etc.
 
@@ -13,7 +19,7 @@ ABOUT PROJECT:
     • Developed a Tableau interactive dashboard to perform analysis, producing quantitative visualizations 
       in Tableau to draw valuable insights. 
         
-TECHNOLOGIES USED:
+## TECHNOLOGIES USED:
 
     • Advance Excel
 
@@ -21,14 +27,14 @@ TECHNOLOGIES USED:
 
     • Statistics
     
-STEPS OVERVIEW:
+## STEPS OVERVIEW:
 
     1) Data subset collected from online.
     2) Loading Libraries.
     3) Data Cleaning & Finding Missing values.
     4) Data Visualization.
 
-DATA CLEANING:
+## DATA CLEANING:
     
     • Open Dataset in Excel and Make a Copy of Dataset for security purpose.
     
@@ -48,7 +54,7 @@ DATA CLEANING:
     
     • Find and Replace.
     
-DATA VISUALIZATION:
+## DATA VISUALIZATION:
 
     1st Sheet - Total Opportunities.
     
@@ -72,7 +78,7 @@ DATA VISUALIZATION:
     
     11th Sheet - Regions.
     
-DASHBOARD CONTENT: 
+## DASHBOARD CONTENT: 
 
 The dashboard shows:
   
@@ -88,15 +94,15 @@ The dashboard shows:
     
     6) At the right corner Top Won Opportunity Number and Top Loss Opportunity Number.
     
-DASHBOARD:
+## DASHBOARD:
 
 ![image](https://user-images.githubusercontent.com/124501309/221943041-cafdcde6-5a05-4e9c-bba1-295deec97d62.png)
 
-NOTE: If you click any Region at Top, all the Data Changes According to that Region, Ex. PACIFIC REGION.
+### NOTE: If you click any Region at Top, all the Data Changes According to that Region, Ex. PACIFIC REGION.
 
 ![image](https://user-images.githubusercontent.com/124501309/221945388-528524fb-691e-424d-b785-4520a23cc1cf.png)
 
-NOTE:
+## NOTE:
 
 I have uploaded all the files, datasets, workbook, icons above. Feel free to use this Project's resourses for your next Project.
 If you like this Project and Dashboard give it a Star or just tell me. It'll make me feel Good :)
