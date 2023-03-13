@@ -2,9 +2,11 @@
 
 ## LINKS:
 
-LinkedIn: https://www.linkedin.com/in/gulshan-gedam-362905209/
+Lets Connect LinkedIn: https://www.linkedin.com/in/gulshan-gedam-362905209/
 
 Dashboard: https://public.tableau.com/app/profile/gulshan.gedam/viz/CarssalesWinLossOppAnalysisDashboard/Dashboard1?publish=yes
+
+Dashboard Dark: https://public.tableau.com/app/profile/gulshan.gedam/viz/CarsSalesWinLossKPIAnalysisDashboardDark/Dashboard?publish=yes
 
 ## PROJECT NAME:
 
@@ -96,7 +98,7 @@ The dashboard shows:
     
 ## DASHBOARD:
 
-![image](https://user-images.githubusercontent.com/124501309/221943041-cafdcde6-5a05-4e9c-bba1-295deec97d62.png)
+![Dashboard White](https://user-images.githubusercontent.com/124501309/224763493-48cc63fe-4130-47a2-85b6-a2064fa86be1.png)
 
 ### NOTE: If you click any Region at Top, all the Data Changes According to that Region, Ex. PACIFIC REGION.
 
