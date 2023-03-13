@@ -10,7 +10,7 @@ Dashboard Dark: https://public.tableau.com/app/profile/gulshan.gedam/viz/CarsSal
 
 ## PROJECT NAME:
 
-Car Sales Win and Loss Analysis Using Excel and Tableau Dashboard - Full KPI Analysis
+Car Sales Win and Loss Opportunities Analysis Using Excel and Tableau Dashboard - Full KPI Analysis
 
 ## ABOUT PROJECT:
 
@@ -103,6 +103,10 @@ The dashboard shows:
 ### NOTE: If you click any Region at Top, all the Data Changes According to that Region, Ex. PACIFIC REGION.
 
 ![image](https://user-images.githubusercontent.com/124501309/221945388-528524fb-691e-424d-b785-4520a23cc1cf.png)
+
+### DASHBOARD BLACK:
+
+![Dashboard Dark](https://user-images.githubusercontent.com/124501309/224763892-82173ba4-ca4a-43d4-b66d-ed138d47d1f6.png)
 
 ## NOTE:
 
