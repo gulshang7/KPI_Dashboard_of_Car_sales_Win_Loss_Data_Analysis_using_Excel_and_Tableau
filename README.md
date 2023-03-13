@@ -102,7 +102,7 @@ The dashboard shows:
 
 ### NOTE: If you click any Region at Top, all the Data Changes According to that Region, Ex. PACIFIC REGION.
 
-![image](https://user-images.githubusercontent.com/124501309/221945388-528524fb-691e-424d-b785-4520a23cc1cf.png)
+https://user-images.githubusercontent.com/124501309/224766661-0fd112df-5473-4280-a168-be6286cf88e1.mp4
 
 ### DASHBOARD BLACK:
 
