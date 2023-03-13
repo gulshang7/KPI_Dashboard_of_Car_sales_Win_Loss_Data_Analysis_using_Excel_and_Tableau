@@ -82,15 +82,15 @@ Car Sales Win and Loss Analysis Using Excel and Tableau
 
 The dashboard shows:
   
-    1) At top contains Title. Every Dashboard contains has its Filter command active.
+    1) At top contains Title. Every Dashboard content has its Filter command active.
     
-    2) Then contain Regions Category, if you select individual region entire Dashboard data changes according to that Region.
+    2) Then contains Regions Category, if you select individual region entire Dashboard data changes according to that Region.
        
-    3) After that Total Opportunities, Won Opportunities, Average Won Opportunities, Loss Opportunities.
+    3) After that Total Opportunities, Won Opportunities, Average Won Opportunities and Loss Opportunities.
     
-    4) After that Vertical Route to Market Won and Route to Market Loss Bar Graph side by side seperated by Route to Market Lables.
+    4) After that Vertical Bar Graph of Route to Market Won and Route to Market Loss side by side seperated by Route to Market Lables.
        
-    5) Then, Vertical Bar Graph of Win/Loss by Competition and at its right Vertical Bar Graph - Win/Loss by Deal Size.
+    5) Then, Vertical Bar Graph of Win/Loss by Competition and at its right Vertical Bar Graph of Win/Loss by Deal Size.
     
     6) At the right corner Top Won Opportunity Number and Top Loss Opportunity Number.
     
