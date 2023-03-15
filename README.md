@@ -2,11 +2,11 @@
 
 ## LINKS:
 
-Lets Connect LinkedIn: https://www.linkedin.com/in/gulshan-gedam-362905209/
+[Go to my LinkedIn](https://www.linkedin.com/in/gulshan-gedam-362905209/) 🌐
 
-Dashboard: https://public.tableau.com/app/profile/gulshan.gedam/viz/CarssalesWinLossOppAnalysisDashboard/Dashboard1?publish=yes
+[Go to Dashboard](https://public.tableau.com/app/profile/gulshan.gedam/viz/CarssalesWinLossOppAnalysisDashboard/Dashboard1?publish=yes)
 
-Dashboard Dark: https://public.tableau.com/app/profile/gulshan.gedam/viz/CarsSalesWinLossKPIAnalysisDashboardDark/Dashboard?publish=yes
+[Go to Dashboard Dark](https://public.tableau.com/app/profile/gulshan.gedam/viz/CarsSalesWinLossKPIAnalysisDashboardDark/Dashboard?publish=yes)
 
 ## PROJECT NAME:
 
@@ -113,3 +113,4 @@ https://user-images.githubusercontent.com/124501309/224766661-0fd112df-5473-4280
 I have uploaded all the files, datasets, workbook, icons above. Feel free to use this Project's resourses for your next Project.
 If you like this Project and Dashboard give it a Star or just tell me. It'll make me feel Good :)
 
+[Go to my LinkedIn](https://www.linkedin.com/in/gulshan-gedam-362905209/) 🌐
